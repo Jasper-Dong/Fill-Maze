@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Fill_Maze"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Launch">
+				<Option output="/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug/Launch" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.2.0_1/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.3.4/include/GLFW"/>
+					<Add directory="/usr/local/Cellar/glm/0.9.9.8/include/glm"/>
+					<Add directory="/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 Launch"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Launch/fast">
+				<Option output="/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug/Launch" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/glew/2.2.0_1/include/GL"/>
+					<Add directory="/usr/local/Cellar/glfw/3.3.4/include/GLFW"/>
+					<Add directory="/usr/local/Cellar/glm/0.9.9.8/include/glm"/>
+					<Add directory="/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 Launch/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/src/control.cpp">
+			<Option target="Launch"/>
+		</Unit>
+		<Unit filename="/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/src/gameover.cpp">
+			<Option target="Launch"/>
+		</Unit>
+		<Unit filename="/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/src/gameresult.cpp">
+			<Option target="Launch"/>
+		</Unit>
+		<Unit filename="/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/src/gamestart.cpp">
+			<Option target="Launch"/>
+		</Unit>
+		<Unit filename="/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/src/init.cpp">
+			<Option target="Launch"/>
+		</Unit>
+		<Unit filename="/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/src/laberynth.cpp">
+			<Option target="Launch"/>
+		</Unit>
+		<Unit filename="/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/src/main.cpp">
+			<Option target="Launch"/>
+		</Unit>
+		<Unit filename="/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/src/object.cpp">
+			<Option target="Launch"/>
+		</Unit>
+		<Unit filename="/Users/jasper/Desktop/Programming/OpenGL/Fill-Maze/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
