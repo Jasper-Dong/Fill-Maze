@@ -2,7 +2,7 @@
 ## 1. Introduction
 This is a simple Fill-Maze game based on OpenGL C++. The scenario is that you have to control a yellow ball moving with the keyboard, and the area that the ball passed through will be filled in another color. Until all movable area in this maze is fully filled, then the game is finished.
 
-![img_2.png](img_2.png)
+![img.png](img.png)
 
 So the goal of this project is to teach you to set up an OpenGL environment on macOS and learn about OpenGL with a simple game.
 
